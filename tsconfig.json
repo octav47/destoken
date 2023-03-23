@@ -1,0 +1,17 @@
+{
+  "compilerOptions": {
+    "esModuleInterop": true,
+    "outDir": "dist",
+    "baseUrl": ".",
+    "resolveJsonModule": true,
+    "noImplicitAny": true,
+    "experimentalDecorators": true,
+    "module": "CommonJS",
+    "target": "ES2015",
+    "moduleResolution": "Node",
+    "allowJs": true,
+    "jsx": "react"
+  },
+  "include": ["src/**/*"],
+  "exclude": ["dist/**/*", "test/**/*"]
+}
