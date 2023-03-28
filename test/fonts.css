@@ -1,0 +1,4 @@
+@font-face {
+    font-family: ASL Hauss;
+    src: local("/ALSHauss-Regular.woff"), url("/ALSHauss-Regular.woff") format("woff");
+}
